@@ -35,7 +35,7 @@
 
 <br clear="both">
 
-<img align="right" height="150" src="https://imgflip.com/gif/9l4yp3"  />
+<img align="right" height="150" width="112" src="https://imgflip.com/gif/9l4yp3"  />
 
 ###
 
