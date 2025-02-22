@@ -10,7 +10,7 @@ Hi 👋, I'm Sky'S<br>Im currently at Highschool.<br>A passionate Backend Develo
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=BlueBlueSky25&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=BlueBlueSky25&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=BlueBlueSky25&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=BlueBlueSky25&icon=1&color=0)](https://visitcount.itsvg.in)
